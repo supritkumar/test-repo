@@ -4,6 +4,8 @@ def remove_vowels(input_string):
     for i in input_string:
         if i not in vowels:
             result = result+i
+        else:
+            pass
             
     return result
 
