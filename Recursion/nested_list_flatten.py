@@ -1,6 +1,7 @@
 """
 a=[1,2, [3,[6,7],4],5,[[11,15,89],67]]
 
+
 make this as proper flatten list
 As it is a deep nested so we will go with recursion
 """
